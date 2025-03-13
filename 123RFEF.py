@@ -16,7 +16,7 @@ def get_file_path():
     local_path = r"C:\Users\rricobaldi\Desktop\OPTA - Provision\Informes Power BI\Ligas\1 RFEF\Futboleras\Jugadoras_123Total13marzo2025.xlsx"
     
     # URL de descarga directa del archivo en GitHub
-    github_url = "https://github.com/RobertoRicobaldi/123RFEF/blob/main/Jugadoras_123Total13marzo2025.xlsx"
+    github_url = "https://github.com/RobertoRicobaldi/123RFEF/raw/main/Jugadoras_123Total13marzo2025.xlsx"
     
     # Verificar si el archivo existe en la ruta local
     if os.path.exists(local_path):
