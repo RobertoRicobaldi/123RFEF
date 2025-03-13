@@ -85,7 +85,7 @@ def cargar_escudos():
         local_path_escudos = r"C:\Users\rricobaldi\Desktop\OPTA - Provision\Informes Power BI\Ligas\1 RFEF\Futboleras\00_Modelo de datos - Primera RFEF 24-25.xlsx"
         
         # URL de descarga directa del archivo en GitHub
-        github_url_escudos = "https://github.com/RobertoRicobaldi/12RFEF/raw/main/00_Modelo de datos - Primera RFEF 24-25.xlsx"
+        github_url_escudos = "https://github.com/RobertoRicobaldi/123RFEF/blob/main/00_Modelo%20de%20datos%20-%20Primera%20RFEF%2024-25.xlsx"
         
         # Verificar si el archivo existe en la ruta local
         if os.path.exists(local_path_escudos):
